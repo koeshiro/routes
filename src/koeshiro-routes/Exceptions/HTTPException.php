@@ -1,6 +1,6 @@
 <?php
 
-namespace koeshiro\Routes\Exceptions;
+namespace Koeshiro\Routes\Exceptions;
 
 /**
  * Description of HTTPException

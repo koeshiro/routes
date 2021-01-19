@@ -1,12 +1,10 @@
 <?php
 
-namespace koeshiro\Routes;
+namespace Koeshiro\Routes;
 
 use Closure;
 use koeshiro\Routes\Interfaces\RouterInterface;
 use koeshiro\Routes\Exceptions\PageNotFound;
-use Nyholm\Psr7\Factory\Psr17Factory as PsrFactory;
-use Psr;
 
 /**
  *

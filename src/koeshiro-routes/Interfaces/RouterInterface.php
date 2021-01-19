@@ -1,6 +1,6 @@
 <?php
 
-namespace koeshiro\Routes\Interfaces;
+namespace Koeshiro\Routes\Interfaces;
 
 use Closure;
 

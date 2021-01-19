@@ -1,6 +1,6 @@
 <?php
 
-namespace koeshiro\Routes\Exceptions\Interfaces;
+namespace Koeshiro\Routes\Exceptions\Interfaces;
 /**
  *
  * @author koesh
