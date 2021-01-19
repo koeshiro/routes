@@ -3,8 +3,8 @@
 namespace Koeshiro\Routes;
 
 use Closure;
-use koeshiro\Routes\Interfaces\RouterInterface;
-use koeshiro\Routes\Exceptions\PageNotFound;
+use Koeshiro\Routes\Interfaces\RouterInterface;
+use Koeshiro\Routes\Exceptions\PageNotFound;
 
 /**
  *

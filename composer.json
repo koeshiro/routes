@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "koeshiro\\Routes\\": "src/koeshiro-routes"
+            "Koeshiro\\Routes\\": "src/koeshiro-routes"
         }
     },
     "require": {
