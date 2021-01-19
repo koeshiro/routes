@@ -1,0 +1,19 @@
+{
+    "name": "koeshiro/routes",
+    "description": "Router",
+    "authors": [
+        {
+            "name": "koeshiro",
+            "email": "koeshiro@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "koeshiro\\Routes\\": "src/koeshiro-routes"
+        }
+    },
+    "require": {
+        "psr/http-message": "1.0.1",
+        "psr/http-factory": "1.0.1"
+    }
+}
